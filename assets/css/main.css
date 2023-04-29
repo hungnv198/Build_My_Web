@@ -1,0 +1,11 @@
+/* Reset Css */
+ * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+ #heading {
+   height: 100px;
+   background-image: linear-gradient(135deg, orange, pink);
+   
+ }
